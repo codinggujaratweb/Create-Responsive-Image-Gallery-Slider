@@ -1,5 +1,5 @@
 #  🖼️ Create-Responsive-Image-Gallery-Slider
-## [Live Preview](https://youtu.be/h_R7A0CfUbo)
+## [Live Preview](https://amanayak.github.io/Create-Responsive-Image-Gallery-Slider)
 ### 🖼️ Responsive Image Gallery Slider
 
 - Responsive Image Gallery Slider Using HTML CSS & JavaScript (SwiperJs)
